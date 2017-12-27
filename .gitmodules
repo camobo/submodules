@@ -1,4 +1,0 @@
-[submodule "source/s"]
-	path = source/s
-	url = https://github.com/camobo/calculadora.git
-	branch = testing
